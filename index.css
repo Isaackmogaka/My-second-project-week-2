@@ -19,6 +19,7 @@ nav{
     justify-content: space-between;
     display: flex;
     padding: 20px;
+    margin-bottom: 2rem;
 }
 nav ul li{
     display: inline-block;
@@ -157,7 +158,7 @@ h3{
 h1{
     margin-bottom: 2rem;
     margin-left: 2rem;
-    margin-top: 2rem;
+    margin-top: 3rem;
 }
 p{
     margin-bottom: 2rem;
@@ -165,6 +166,20 @@ p{
 }
 #one button{
     margin-left: 2rem;
+}
+.app{
+    box-shadow: 2px 2px 2px solid gray;
+    
+    padding-left: 20px;
+    
+}
+.app p{
+margin-left: 1rem;
+}
+#one img{
+    box-shadow: 1px 1px 1px;
+    border-radius:1rem;
+    border-color: solid grey;
 }
 
 
