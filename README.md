@@ -10,8 +10,12 @@
    - HTML
    - CSS
 ## Setup instructions
-- https://github.com/Isaackmogaka/My-second-project-week-2.git
+- clone repo to vscode https://github.com/Isaackmogaka/My-second-project-week-2.git
 - After cloning, open the project with VS Code and customize to your own     preference
+- git init
+- git add
+- git commit the file
+- git push
 ## Contacts and support
 - For more information or clarification, kindly reach out to isaacmogaka2016@gmail.com
 ## LICENCE:
