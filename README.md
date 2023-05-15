@@ -4,7 +4,7 @@
 - https://github.com/Isaackmogaka/My-second-project-week-2.git
 ## Description
 - Rocarstor Car Website page
-- ![[Car Website](https://github.com/Isaackmogaka/My-second-project-week-2/assets/132668097/8d15b2f3-7a38-4a9e-a0bc-c86fd09029d7)
+- ![![Car Website](https://github.com/Isaackmogaka/My-second-project-week-2/assets/132668097/b7c899c8-b04d-420a-908a-fc8211ce86fc)](
 >
 ]
 ## Technologies used 
