@@ -6,6 +6,9 @@
     margin-right: 0rem;
     
 }
+body {
+    overflow-x: hidden;
+}
 .logo{
     color: black;
     font-size: xx-large;
@@ -169,7 +172,7 @@ p{
     margin-left: 2rem;
 }
 .app{
-    height: 310px;
+    height: 400px;
     width: 90%;
     background-color: beige;
     box-shadow: 5px 6px 5px gray;
@@ -178,6 +181,7 @@ p{
     justify-content: center;
     display: flex;
     margin-top: 50px;
+    border-radius: 10px;
 }
 .app p{
 margin-left: 1rem;
@@ -188,16 +192,24 @@ margin-left: 1rem;
     border-color: solid grey;
 }
 .app .imagess{
-    padding: 0;
+    padding: 2px;
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    margin-right: 2rem;
+}
+.app .imagess img {
+    width: 40%;
+    height: 100%;
+    margin: 1rem 2rem 0 0;
 }
 .app .download{
     width: 300px;
+    padding-top: 5rem;
 }
-.app .team{
-    height: fit-content;
+#h1,#po {
+    height: 2rem !important;
+    padding: 0 !important;
+    margin: 0 !important;
 }
 #imagesss{
     margin-top: -30px;
