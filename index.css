@@ -169,10 +169,15 @@ p{
     margin-left: 2rem;
 }
 .app{
-    box-shadow: 2px 2px 2px solid gray;
-    
-    padding-left: 20px;
-    
+    height: 310px;
+    width: 90%;
+    background-color: beige;
+    box-shadow: 5px 6px 5px gray;
+    padding: 5px;
+    gap: 90px;
+    justify-content: center;
+    display: flex;
+    margin-top: 50px;
 }
 .app p{
 margin-left: 1rem;
@@ -182,16 +187,21 @@ margin-left: 1rem;
     border-radius:1rem;
     border-color: solid grey;
 }
-
-
-
-
-
-
-
-
-
-
-
+.app .imagess{
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.app .download{
+    width: 300px;
+}
+.app .team{
+    height: fit-content;
+}
+#imagesss{
+    margin-top: -30px;
+    margin-bottom: -20px;
+}
 
 
