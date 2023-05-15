@@ -4,7 +4,8 @@
 - https://github.com/Isaackmogaka/My-second-project-week-2.git
 ## Description
 - Rocarstor Car Website page
-- ![<img width="169" alt="car-rental 1" src="https://github.com/Isaackmogaka/My-second-project-week-2/assets/132668097/fe3de96a-1475-4930-bae0-7a9edd4f595d">
+- ![<![Car Website](https://github.com/Isaackmogaka/My-second-project-week-2/assets/132668097/8d15b2f3-7a38-4a9e-a0bc-c86fd09029d7)
+>
 ]
 ## Technologies used 
 - This webpage was developed using:
