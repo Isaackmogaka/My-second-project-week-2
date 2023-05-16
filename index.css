@@ -63,9 +63,16 @@ form input{
 #one button{
     background-color: darkorange;
 }
+button {
+    border-radius: 10px;
+}
 #two ul{
     list-style: none;
     display: flex;
+}
+#one :nth-child(4) {
+    background-color: white;
+    border-color: darkorange;
 }
 #two li{
     margin: 0 10px;
@@ -215,5 +222,12 @@ margin-left: 1rem;
     margin-top: -30px;
     margin-bottom: -20px;
 }
-
+form :last-child{
+    border-radius: 10px;
+    background-color: darkorange;
+}
+form input {
+    margin-bottom: 1rem;
+    border-radius: 5px;
+}
 
